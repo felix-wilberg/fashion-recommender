@@ -1,0 +1,8 @@
+opendatasets
+langchain==0.0.187
+openai
+matplotlib
+seaborn
+numpy
+python-dotenv==1.0.0
+tiktoken
